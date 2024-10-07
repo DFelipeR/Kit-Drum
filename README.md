@@ -1,5 +1,5 @@
 # Kit-Drum
-Este proyecto es una batería virtual que combina elementos visuales y sonoros. Algunas características clave son:
+⇝Este proyecto es una batería virtual que combina elementos visuales y sonoros. Algunas características clave son:
 
 ✦Tecnologías Utilizadas✦
 
